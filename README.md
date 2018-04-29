@@ -1,4 +1,4 @@
-# distracted_driver_detection
+# Distracted Driver Detection
 该项目为优达学城机器学习（进阶）纳米学位毕业项目。
 
 项目主要基于Keras内置的ResNet50, InceptionResNetV2, InceptionV3, Xception和VGG16模型进行模型训练，训练过程中使用了迁移学习、模型微调和模型融合技术。
